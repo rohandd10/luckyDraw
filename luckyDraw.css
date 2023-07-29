@@ -1,0 +1,12 @@
+.d1 {
+    border:2px double pink;
+    width: 100% auto;
+    height: 200px;
+    margin: 5% auto;
+    text-align: center;
+}
+.pic {
+    border:3px double rgb(34, 0, 255);
+    height:100px;
+    width:100px;
+}
